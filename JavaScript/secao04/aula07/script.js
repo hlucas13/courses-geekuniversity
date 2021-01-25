@@ -15,7 +15,7 @@ Menor ou igual a: <=
 */
 
 var n1 = 54,
-  n2 = 78;
+    n2 = 78;
 
 console.log(n1 == n2); // false
 console.log(n1 != n2); // true
@@ -27,7 +27,7 @@ console.log(n1 >= n2); // false
 console.log(n1 <= n2); // true
 
 if (n1 > n2) {
-  console.log('N1 é maior que N2');
+    console.log('N1 é maior que N2');
 } else {
-  console.log('N1 é menor que N2');
+    console.log('N1 é menor que N2');
 }

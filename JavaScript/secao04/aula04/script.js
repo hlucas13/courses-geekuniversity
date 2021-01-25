@@ -1,7 +1,7 @@
 // Operações matemáticas
 var num1 = 42,
-  num2 = 19,
-  nome = 'Geek';
+    num2 = 19,
+    nome = 'Geek';
 // var num2 = 19;
 
 console.log(num1, num2, nome);

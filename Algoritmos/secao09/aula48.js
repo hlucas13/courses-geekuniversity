@@ -2,9 +2,9 @@
 
 // Matrizes (Arrays):
 let numbers = [
-  [11, 22, 33],
-  [44, 55, 66],
-  [77, 88, 99],
+    [11, 22, 33],
+    [44, 55, 66],
+    [77, 88, 99],
 ];
 
 console.log('O terceiro número da primeira linha é: ' + numbers[0][2]); // [linha][coluna]

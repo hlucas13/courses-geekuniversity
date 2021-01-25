@@ -13,10 +13,10 @@ var altura = 1.72; // number (float)
 var ativo = true; // booleano
 var alunos = ['Pedro', 'Gustavo', 'Camila']; // vetor (array)
 var aluno = {
-  nome: 'Juliana',
-  idade: 17,
-  peso: 58.4,
-  ativo: true,
+    nome: 'Juliana',
+    idade: 17,
+    peso: 58.4,
+    ativo: true,
 }; // objeto
 
 console.log(aluno.idade);

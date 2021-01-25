@@ -10,9 +10,9 @@ console.log(idade);
 var sexo = 'm';
 
 if (sexo === 'm') {
-  console.log('Masculino');
+    console.log('Masculino');
 } else {
-  console.log('Feminino');
+    console.log('Feminino');
 }
 
 // Operador ternário (funciona somente com if else simples)
